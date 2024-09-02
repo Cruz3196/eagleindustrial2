@@ -13,7 +13,7 @@ const Footer = () => {
                     <div className="grid sm:grid-cols-12 gap-5 py-8 md:py-12 border-t border-gray-200 lg:ml-11">
 
                     {/* 1st block */}
-                    <div className="col-span-12 lg:col-span-4 flex items-center justify-center bg-gray-200">
+                    <div className="col-span-12 lg:col-span-4 flex items-center justify-center bg-white">
                         <img 
                             src={logo} 
                             alt="Company Logo" 
