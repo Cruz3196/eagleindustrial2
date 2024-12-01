@@ -32,9 +32,9 @@ const Contact = () => {
         document.getElementById('submitBtn').innerHTML = 'Loading...';
 
         // EmailJS service, template, and user IDs
-        const serviceID = 'service_q0580t8';
-        const templateID = 'template_liqde0r';
-        const userID = 'MgrtFzHoKzgUGcog8d';
+        const serviceID = 'temp';
+        const templateID = 'temp';
+        const userID = 'temp';
 
         const templateParams = {
             first_name: firstName,
